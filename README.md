@@ -5,6 +5,8 @@ Scrcpy Remote is a powerful iOS application that enables seamless control of you
 [![Download on the App Store](images/downlowd-appstore.png)](https://apps.apple.com/us/app/scrcpy-remote/id1629352527)
 [![Open Source on GitHub](images/github-opensource.jpg)](https://github.com/wsvn53/scrcpy-mobile)
 
+![App Screenshots](images/appstore-screenshots.png)
+
 ## Main Features
 
 ### Device Control
@@ -22,8 +24,6 @@ Connect to your devices anywhere - whether on your local network at home or remo
 ### Advanced Features
 - **Actions System**: Create automated task sequences that execute on connection
 - **Live Activity**: Real-time connection status in Dynamic Island and Lock Screen (iOS 16.1+)
-
-![App Screenshots](images/appstore-screenshots.png)
 
 ## How to Use with VNC Devices
 
