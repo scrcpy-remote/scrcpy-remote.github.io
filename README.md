@@ -1,5 +1,3 @@
-# Scrcpy Remote - Remote Control Your Devices from iPhone
-
 Scrcpy Remote is a powerful iOS application that enables seamless control of your computers and Android devices from anywhere. Built on proven technologies like VNC and scrcpy, it brings desktop-class remote control to your iPhone and iPad.
 
 [![Download on the App Store](images/downlowd-appstore.png)](https://apps.apple.com/us/app/scrcpy-remote/id1629352527)
